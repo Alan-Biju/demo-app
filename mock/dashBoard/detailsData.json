@@ -1,0 +1,35 @@
+[
+    {
+      "title": "Detail 0",
+      "info": "Testing"
+    },
+    {
+      "title": "Detail 1",
+      "info": "Some detailed information goes here."
+    },
+    {
+      "title": "Detail 2",
+      "info": "Some more detailed information goes here."
+    },
+    {
+        "title": "Detail 2",
+        "info": "Some more detailed information goes here."
+    },
+    {
+      "title": "Detail 0",
+      "info": "Testing"
+    },
+    {
+      "title": "Detail 1",
+      "info": "Some detailed information goes here."
+    },
+    {
+      "title": "Detail 2",
+      "info": "Some more detailed information goes here."
+    },
+    {
+        "title": "Detail 2",
+        "info": "Some more detailed information goes here."
+    }
+]
+  
